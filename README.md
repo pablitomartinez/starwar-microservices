@@ -3,7 +3,11 @@
 Este proyecto se enfoca en la creación de un microservicio de Star Wars API que se implementa utilizando Docker para facilitar la contenerización y se despliega en un servidor virtual VMware. Además, se utiliza Google Cloud para el almacenamiento de datos.
 Se trata de una API de Star Wars, que maneja información sobre los personajes de la franquicia (Characters), las películas que se han lanzado (Films) y los planetas que aparecen en dichas películas (Planets)
 
-
+## Endpoints del Servicio:
+    34.168.72.81:8000
+    34.168.72.81:8000/characters
+    34.168.72.81:8000/films
+    34.168.72.81:8000/planets
 
 ### Gateway Principal: 
     /api
